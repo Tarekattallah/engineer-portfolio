@@ -5,9 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)](https://github.com/your-username)
 
-<p align="center">
-  <img src="./assets/screenshot.png" alt="Portfolio Screenshot" width="800" />
-</p>
 
 > **"Systems built with a scientist's precision."**
 
